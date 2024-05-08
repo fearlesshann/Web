@@ -1,0 +1,35 @@
+form {
+    color: cadetblue;
+    text-align: center;
+}
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+div {
+    border: 2px solid darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    background-color: darkkhaki;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid darkblue;
+}
+td, th {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid darkblue;
+}
+#th1 {
+    color: brown;
+}
+.td1 {
+    background-color: aquamarine;
+}
