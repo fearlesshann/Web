@@ -1,3 +1,3 @@
 while True:
     name = input("Please enter your name:")
-    print(f"Your name is {name}")
+    print(f"Your name is {name[0]}")
